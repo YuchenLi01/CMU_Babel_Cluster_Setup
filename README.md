@@ -296,5 +296,5 @@ We welcome and appreciate your contribution!
 
 In particular,
 please suggest more to be added to 
-[Appendix: Useful commands](##-Appendix-Useful-commands)
+[Appendix: Useful commands](#appendix-useful-commands)
 :) 
